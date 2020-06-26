@@ -33,7 +33,7 @@
 
 ## 文件结构
 
-![1](.\README_images\1.png)
+![1](README_images\1.png)
 
 ## 训练结果
 
@@ -47,7 +47,7 @@
 
 ### Loss和Accuracy走势情况:
 
-![2](.\README_images\2.png)
+![2](README_images\2.png)
 
 ## 配置
 
