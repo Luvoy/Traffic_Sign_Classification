@@ -63,4 +63,4 @@ CPU: i7-6700HQ
 
 MEMORY: 16GB
 
-Platform: Windows 10
+Platform: Ubuntu 18.04
